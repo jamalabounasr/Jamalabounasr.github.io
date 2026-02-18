@@ -7,7 +7,7 @@ subtitle: PhD Researcher at UPC BarcelonaTech
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jamal.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="display:flex;flex-direction:column;gap:12px;margin-top:10px;">
