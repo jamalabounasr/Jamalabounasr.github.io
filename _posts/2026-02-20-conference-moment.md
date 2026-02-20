@@ -5,7 +5,7 @@ date: 2026-02-20
 description: "A quick recap of my talk, the people I met, and what I’m taking back to the lab."
 tags: [conference, research, travel]
 categories: [personal, research]
-thumbnail: /assets/img/Graphical.jpg
+thumbnail: /assets/img/Graphical.png
 ---
 
 ![Me presenting at [Conference name]]({{ "/assets/img/posts/conference/my-talk.jpg" | relative_url }})
