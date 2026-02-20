@@ -1,0 +1,14 @@
+---
+title: "Lisbon weekend photo dump"
+date: 2026-02-20
+categories: [travel, photography]
+tags: [lisbon, city, street]
+excerpt: "A few favorites from Lisbon."
+---
+Short intro (2–3 lines).
+## Highlights
+- Place 1
+- Place 2
+## Photos
+![Miradouro at sunset]({{ "/assets/img/travel/lisbon/sunset.jpg" | relative_url }})
+![Tram vibes]({{ "/assets/img/travel/lisbon/tram.jpg" | relative_url }})
