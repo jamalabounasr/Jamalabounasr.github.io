@@ -88,7 +88,7 @@ cv:
         releaseDate: 2024
         url: https://doi.org/10.1109/JSEN.2024.3485472
         summary: Journal article presenting a textile stretchable antenna-based sensor for breathing monitoring.
-            - title: Capacitively coupled CSRR and H-Slot UHF RFID antenna for wireless glucose concentration monitoring
+      - title: Capacitively coupled CSRR and H-Slot UHF RFID antenna for wireless glucose concentration monitoring
         authors:
           - Tauseef Hussain
           - Jamal Abounasr
