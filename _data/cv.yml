@@ -71,13 +71,6 @@ cv:
         summary: Awarded the Joan Oró FI Predoctoral Grant for doctoral research at UPC. Funds three years of study, covering tuition and supporting training activities, international research stays, and professional development in high-frequency flexible sensors and RF-based healthcare applications.
         
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
       - title: Textile stretchable antenna-based sensor for breathing monitoring
         authors:
           - Mariam El Gharbi
@@ -186,47 +179,27 @@ cv:
 
     Skills:
       - name: Physics
-        level: Master
+        level: Ph.D
         icon: fa-solid fa-hashtag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Arabic
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
+      - name: TELEBREATH – Textile-Based Sensors for Respiratory Disease Monitoring
+        start_date: 2022-12
+        end_date: Present
+        summary: Developing electronic textile sensors for respiratory disease monitoring and early disease detection, targeting asthma, COPD, and pulmonary diseases using wearable RF and textile sensing for minimally invasive health monitoring.
+      - name: ETEXHEALTH – Advanced E-Textile Sensors for Health Monitoring
+        start_date: 2022-09
+        end_date: Present
+        summary: Developing e-textile sensors for biometric monitoring and disease detection, combining low-frequency resistive/capacitive sensors with high-frequency RFID and antenna sensors for non-invasive health applications. Funded by Agencia Estatal de Investigación.
+    
     References:
       - name: Professor John Doe
         icon: fa-solid fa-laptop
